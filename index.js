@@ -1,0 +1,1 @@
+alert('Vì project mẫu quá xấu, e có tự chỉnh lại một vài thuộc tính và responsive. Mong anh(chị) chấm bài k trừ điểm hehe')
